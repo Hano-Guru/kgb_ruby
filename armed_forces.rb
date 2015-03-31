@@ -1,0 +1,3 @@
+class ArmedForces < GuildMaster
+
+end
